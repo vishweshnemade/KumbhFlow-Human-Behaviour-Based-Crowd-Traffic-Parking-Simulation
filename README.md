@@ -1,4 +1,6 @@
 
+
+
 # KumbhFlow: Human Behaviour-Based Crowd, Traffic & Parking Simulation
 
 KumbhFlow is a Python-based simulation project designed to simulate
@@ -64,9 +66,35 @@ The simulated Kumbh Mela area contains:
 - Lists and variables
 - User-defined modules
 
+- Project Objective
+
+The objective of KumbhFlow is to demonstrate how computer-based
+simulation can be used to study crowd movement, traffic,
+parking and emergency management in large public events.
+
+Future Scope
+
+The project can be extended using:
+
+Real-time crowd data
+Computer vision
+GPS data
+IoT sensors
+Machine learning
+Real-time traffic monitoring
+Dynamic route optimization
+
+
 ## How to Run
 
 Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
+
+
+terminal:
+streamlit run Home.py
+
+
+
